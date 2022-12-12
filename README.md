@@ -4,7 +4,7 @@
 
 <table>
    <tr>
-    <td align="center"><b><a href="https://github.com/AlgoRoots">김태희</a></b></td>
+    <td align="center"><b><a href="https://github.com/taeheeee">김태희</a></b></td>
     <td align="center"><b><a href="https://github.com/pol-dev-shinroo">김재혁</a></b></td>
     
   </tr>
